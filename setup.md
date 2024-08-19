@@ -4,13 +4,27 @@ title: Setup
 
 ## Requirements
 
-You will requre 1) all the correct programs, 2) all the listed R packages 3) the dataset and code. Instructions for all these are below.
+For the workshops, you will need R and RStudio installed on your computer.
 
+## Installing R
 
-### Please see the attached document for program instructions: - [Program Install Instructions.docx](/Resources/install_instructions.docx)
--  R version: 3.6.x or newer (recommend 4.0.x) and RStudio
+1. Go to https://cran.r-project.org/mirrors.html and select one of the mirrors for the USA.
 
-Once all of the programs are installed, open RStudio and run the below package install scripts. 
+2. Click on the "Download" link of precompiled binary for the distribution that matches your operating system.
+ 
+3. If you are installing to a Windows computer, click on "Download R for Windows" link. Under subdirectories, click on “base” and then “Download R 4.0.3 for Windows.”
+
+4. If you are installing to a Mac, click "Download R for (Mac) OS X" and on the resulting webpage click the "R-4.0.3.pkg" link to download the installer to your computer.
+
+5. Once R finishes downloading, click on the installer and follow the prompts. Make sure to "install as administrator" if you are on Windows. Otherwise, the default options are fine.
+
+## Installing RStudio
+
+1. Go to https://posit.co/download/rstudio-desktop/, click the Download button under the heading "Install RStudio" (you may have to scroll down). 
+
+2. Click on 'Downloaded Installer' and follow the prompts for installing RStudio. Unless you have specific installation requirements, the default options are fine.
+
+3. Once RStudio has finished installing, click on the program icon. RStudio should open with an active R console.
 
 ## Datasets and Code
 

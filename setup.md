@@ -40,13 +40,13 @@ Where the code is supplied as a link to a Git repository, you have two options:
 
 Both options can be initiated by clicking the bright green `<> Code` button on the linked repository homepage. 
 
-For **Jake Brownscombe's Telemetry With Machine Learning Workshop**, the code and data are available at [this repository.](https://github.com/jakebrownscombe/Telemetry_MachineLearning) When you have downloaded the archive, the code to be run can be found in the `worksheets/Telemetry_ML.R` file.
+For **Hugo Flavio's ACTEL workshop**, the code and data are available in [this ZIP archive.](/Resources/FLAVIO_2024_OTN_workshop.zip) When you have extracted the archive, the code to run is in the five R files in the main directory, numbered 00 to 04. 
 
 For **Ben Hlina's glatos Detection Efficiency Workshop**, the code and data are available at [this repository.](https://github.com/benjaminhlina/glatos-detection-efficiency/tree/main) When you have downloaded the archive, the code to be run can be found in the `R/glatos_detection_efficiency.R` file. 
 
-For **Hugo Flavio's ACTEL workshop**, the code and data are available in [this ZIP archive.](/Resources/FLAVIO_2024_OTN_workshop.zip) When you have extracted the archive, the code to run is in the five R files in the main directory, numbered 00 to 04. 
-
 Code for **Eric Pedersen's** workshop is still pending arrival. 
+
+For **Jake Brownscombe's Telemetry With Machine Learning Workshop**, the code and data are available at [this repository.](https://github.com/jakebrownscombe/Telemetry_MachineLearning) When you have downloaded the archive, the code to be run can be found in the `worksheets/Telemetry_ML.R` file.
 
 
 

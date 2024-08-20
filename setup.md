@@ -44,7 +44,7 @@ For **Hugo Flavio's ACTEL workshop**, the code and data are available in [this Z
 
 For **Ben Hlina's glatos Detection Efficiency Workshop**, the code and data are available at [this repository.](https://github.com/benjaminhlina/glatos-detection-efficiency/tree/main) When you have downloaded the archive, the code to be run can be found in the `R/glatos_detection_efficiency.R` file. 
 
-Code for **Eric Pedersen's** workshop is still pending arrival. 
+For **Eric Pedersen's GAMs workshop**, the code and data are available in [this ZIP archive.](/Resources/OTN2024-GAM4movement.zip) When you have extracted the archive, you can open the .Rproj file in RStudio. 
 
 For **Jake Brownscombe's Telemetry With Machine Learning Workshop**, the code and data are available at [this repository.](https://github.com/jakebrownscombe/Telemetry_MachineLearning) When you have downloaded the archive, the code to be run can be found in the `worksheets/Telemetry_ML.R` file.
 

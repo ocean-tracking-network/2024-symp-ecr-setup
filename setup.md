@@ -34,11 +34,11 @@ Where the code is supplied as a ZIP archive, download it from the provided link 
 
 Where the code is supplied as a link to a Git repository, you have two options: 
 
-1. If you are not familiar with Git, then you can download the code as a ZIP archive and extract it to a location of your choice. This will make it slightly more cumbersome to update the code if the presenters make changes to it in the future, but it can be done without installing and setting up Git. 
+**If you are not familiar with Git**, then you can download the code as a ZIP archive and extract it to a location of your choice. This will make it slightly more cumbersome to update the code if the presenters make changes to it in the future, but it can be done without installing and setting up Git. 
 
 Click on the bright green `<> Code` button at the top of the linked repository, and select 'Download ZIP' from the dropdown. Once you have the ZIP archive, you can extract it to a location of your choice on your computer and open the R scripts in RStudio. 
 
-2. If you are familiar with Git and its usage, then you may clone the repository to a location of your choice on your local machine using the `git clone` command. This requires some familiarity with Git, but will allow you to more easily incorporate updates to the code, should the instructor make them.
+**If you are familiar with Git**, then you may clone the repository to a location of your choice on your local machine using the `git clone` command. This requires some familiarity with Git, but will allow you to more easily incorporate updates to the code, should the instructor make them.
 
 To clone a repository, you will need to have Git installed. If you want to use Git for this, you will need to install it. Follow the instructions on [this page.](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 

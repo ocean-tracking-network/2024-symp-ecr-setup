@@ -34,11 +34,23 @@ Where the code is supplied as a ZIP archive, download it from the provided link 
 
 Where the code is supplied as a link to a Git repository, you have two options: 
 
-1. If you are familiar with Git and its usage, then you may clone the repository to a location of your choice on your local machine using the `git clone [repository URL]` command. This requires some familiarity with Git, but will allow you to more easily incorporate updates to the code, should the instructor make them.
+1. If you are not familiar with Git, then you can download the code as a ZIP archive and extract it to a location of your choice. This will make it slightly more cumbersome to update the code if the presenters make changes to it in the future, but it can be done without installing and setting up Git. 
 
-2. If you are not familiar with Git, then you can download the code as a ZIP archive and extract it to a location of your choice. This will make it slightly more cumbersome to update the code if the presenters make changes to it in the future, but it can be done without installing and setting up Git. 
+Click on the bright green `<> Code` button at the top of the linked repository, and select 'Download ZIP' from the dropdown. Once you have the ZIP archive, you can extract it to a location of your choice on your computer and open the R scripts in RStudio. 
 
-Both options can be initiated by clicking the bright green `<> Code` button on the linked repository homepage. 
+2. If you are familiar with Git and its usage, then you may clone the repository to a location of your choice on your local machine using the `git clone` command. This requires some familiarity with Git, but will allow you to more easily incorporate updates to the code, should the instructor make them.
+
+To clone a repository, you will need to have Git installed. If you want to use Git for this, you will need to install it. Follow the instructions on [this page.](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+
+Once you have installed Git, you will need to open a command line window. The appropriate program is `Terminal` on Mac OS computers, and `Command Prompt` or `Git Bash` on Windows computers. Navigate to the folder in which you want to put the files from the repository by using the `cd` ('Change Directory') command followed by the name of the folder (for example, `cd /Users/username/Documents/OTN_Symposium/Workshops`). 
+
+Once you are in the folder you want, you can clone the repository into that folder with the `git clone` command. Below, we have provided two `git clone` commands that can be copied and pasted into your terminal window; however, if you wish to use GitHub's other cloning options, you are welcome to do so. 
+
+For **Ben Hlina's glatos Detection Efficiency Workshop**, run `git clone https://github.com/benjaminhlina/glatos-detection-efficiency.git`.
+
+For **Jake Brownscombe's Telemetry With machine Learning Workshop**, run `https://github.com/jakebrownscombe/Telemetry_MachineLearning.git`.
+
+For the other workshops, or for the raw links to the repositories, the appropriate links are provided below.
 
 For **Hugo Flavio's ACTEL workshop**, the code and data are available in [this ZIP archive.](/Resources/FLAVIO_2024_OTN_workshop.zip) When you have extracted the archive, the code to run is in the five R files in the main directory, numbered 00 to 04. 
 

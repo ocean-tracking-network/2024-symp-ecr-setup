@@ -46,7 +46,7 @@ Once you have installed Git, you will need to open a command line window. The ap
 
 Once you are in the folder you want, you can clone the repository into that folder with the `git clone` command. Below, we have provided two `git clone` commands that can be copied and pasted into your terminal window; however, if you wish to use GitHub's other cloning options, you are welcome to do so. 
 
-For **Hugo Flavio's ACTEL Workshop**, run `git clone https://github.com/ocean-tracking-network/2024-ecrworkshop-actel`
+For **Hugo Flávio's ACTEL Workshop**, run `git clone https://github.com/ocean-tracking-network/2024-ecrworkshop-actel`
 
 For **Ben Hlina's glatos Detection Efficiency Workshop**, run `git clone https://github.com/benjaminhlina/glatos-detection-efficiency.git`.
 
@@ -54,7 +54,7 @@ For **Jake Brownscombe's Telemetry With machine Learning Workshop**, run `git cl
 
 For the other workshop archives, or for the raw links to the repositories, the appropriate links are provided below.
 
-For **Hugo Flavio's ACTEL workshop**, the code and data are available at [this repository](https://github.com/ocean-tracking-network/2024-ecrworkshop-actel). The code to run is in the five R files in the main directory, numbered 00 to 04. 
+For **Hugo Flávio's ACTEL workshop**, the code and data are available at [this repository](https://github.com/ocean-tracking-network/2024-ecrworkshop-actel). The code to run is in the five R files in the main directory, numbered 00 to 04. 
 
 For **Ben Hlina's glatos Detection Efficiency Workshop**, the code and data are available at [this repository.](https://github.com/benjaminhlina/glatos-detection-efficiency/tree/main) When you have downloaded the archive, the code to be run can be found in the `R/glatos_detection_efficiency.R` file. 
 

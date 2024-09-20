@@ -28,7 +28,7 @@ For the workshops, you will need R and RStudio installed on your computer.
 
 ## Datasets and Code
 
-There are four sets of data and code you will need for the ECR Workshop. Each corresponds to a lesson from a different presenter. 
+There are four sets of data and code you will need for the ECR Workshop. Each one of these corresponds to a lesson from a different presenter. 
 
 Where the code is supplied as a ZIP archive, download it from the provided link and extract it to a location of your choice.
 
@@ -46,21 +46,21 @@ Once you have installed Git, you will need to open a command line window. The ap
 
 Once you are in the folder you want, you can clone the repository into that folder with the `git clone` command. Below, we have provided two `git clone` commands that can be copied and pasted into your terminal window; however, if you wish to use GitHub's other cloning options, you are welcome to do so. 
 
-For **Hugo Flávio's ACTEL Workshop**, run `git clone https://github.com/ocean-tracking-network/2024-ecrworkshop-actel`
+For **Hugo Flávio's workshop ('Comparing migration success between groups in acoustic telemetry studies')**, run `git clone https://github.com/ocean-tracking-network/2024-ecrworkshop-actel`
 
-For **Ben Hlina's glatos Detection Efficiency Workshop**, run `git clone https://github.com/benjaminhlina/glatos-detection-efficiency.git`.
+For **Ben Hlina's workshop ('Estimating detection efficiency of acoustic receivers using glatos')**, run `git clone https://github.com/benjaminhlina/glatos-detection-efficiency.git`.
 
-For **Jake Brownscombe's Telemetry With machine Learning Workshop**, run `git clone https://github.com/jakebrownscombe/Telemetry_MachineLearning.git`.
+For **Jake Brownscombe's workshop ('Machine learning with telemetry data')**, run `git clone https://github.com/jakebrownscombe/Telemetry_MachineLearning.git`.
 
 For the other workshop archives, or for the raw links to the repositories, the appropriate links are provided below.
 
-For **Hugo Flávio's ACTEL workshop**, the code and data are available at [this repository](https://github.com/ocean-tracking-network/2024-ecrworkshop-actel). The code to run is in the five R files in the main directory, numbered 00 to 04. 
+For **Hugo Flávio's workshop ('Comparing migration success between groups in acoustic telemetry studies')**, the code and data are available at [this repository](https://github.com/ocean-tracking-network/2024-ecrworkshop-actel). The code to run is in the five R files in the main directory, numbered 00 to 04. 
 
-For **Ben Hlina's glatos Detection Efficiency Workshop**, the code and data are available at [this repository.](https://github.com/benjaminhlina/glatos-detection-efficiency/tree/main) When you have downloaded the archive, the code to be run can be found in the `R/glatos_detection_efficiency.R` file. 
+For **Ben Hlina's workshop ('Estimating detection efficiency of acoustic receivers using glatos')**, the code and data are available at [this repository.](https://github.com/benjaminhlina/glatos-detection-efficiency/tree/main) When you have downloaded the archive, the code to be run can be found in the `R/glatos_detection_efficiency.R` file. 
 
-For **Eric Pedersen's GAMs workshop**, the code and data are available in [this ZIP archive.](/Resources/OTN2024-GAM4movement.zip) When you have extracted the archive, you can open the .Rproj file in RStudio. 
+For **Eric Pedersen's workshop ('Using GAMs for analyzing movement data')**, the code and data are available in [this ZIP archive.](/Resources/OTN2024-GAM4movement.zip) When you have extracted the archive, you can open the .Rproj file in RStudio. 
 
-For **Jake Brownscombe's Telemetry With Machine Learning Workshop**, the code and data are available at [this repository.](https://github.com/jakebrownscombe/Telemetry_MachineLearning) When you have downloaded the archive, the code to be run can be found in the `worksheets/Telemetry_ML.R` file.
+For **Jake Brownscombe's workshop ('Machine learning with telemetry data')**, the code and data are available at [this repository.](https://github.com/jakebrownscombe/Telemetry_MachineLearning) When you have downloaded the archive, the code to be run can be found in the `worksheets/Telemetry_ML.R` file.
 
 
 

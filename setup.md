@@ -38,7 +38,7 @@ Where the code is supplied as a link to a Git repository, you have two options:
 
 Click on the bright green `<> Code` button at the top of the linked repository, and select 'Download ZIP' from the dropdown. Once you have the ZIP archive, you can extract it to a location of your choice on your computer and open the R scripts in RStudio. 
 
-**If you are familiar with Git**gi, then you may clone the repository to a location of your choice on your local machine using the `git clone` command. This requires some familiarity with Git, but will allow you to more easily incorporate updates to the code, should the instructor make them.
+**If you are familiar with Git**, then you may clone the repository to a location of your choice on your local machine using the `git clone` command. This requires some familiarity with Git, but will allow you to more easily incorporate updates to the code, should the instructor make them.
 
 To clone a repository, you will need to have Git installed. If you want to use Git for this, you will need to install it. Follow the instructions on [this page.](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
@@ -56,11 +56,11 @@ For the other workshop archives, or for the raw links to the repositories, the a
 
 For **Hugo Flávio's workshop ('Comparing migration success between groups in acoustic telemetry studies')**, the code and data are available at [this repository](https://github.com/ocean-tracking-network/2024-ecrworkshop-actel). The code to run is in the five R files in the main directory, numbered 00 to 04. 
 
-For **Ben Hlina's workshop ('Estimating detection efficiency of acoustic receivers using glatos')**, the code and data are available at [this repository.](https://github.com/benjaminhlina/glatos-detection-efficiency/tree/main) When you have downloaded the archive, the code to be run can be found in the `R/glatos_detection_efficiency.R` file. 
+For **Ben Hlina's workshop ('Estimating detection efficiency of acoustic receivers using glatos')**, the code and data are available at [this repository](https://github.com/benjaminhlina/glatos-detection-efficiency/tree/main). When you have downloaded the archive, the code to be run can be found in the `R/glatos_detection_efficiency.R` file. 
 
 For **Eric Pedersen's workshop ('Using GAMs for analyzing movement data')**, the code and data are available in [this ZIP archive.](/Resources/OTN2024-GAM4movement.zip) When you have extracted the archive, you can open the .Rproj file in RStudio. 
 
-For **Jake Brownscombe's workshop ('Machine learning with telemetry data')**, the code and data are available at [this repository.](https://github.com/jakebrownscombe/Telemetry_MachineLearning) When you have downloaded the archive, the code to be run can be found in the `worksheets/Telemetry_ML.R` file.
+For **Jake Brownscombe's workshop ('Machine learning with telemetry data')**, the code and data are available at [this repository](https://github.com/jakebrownscombe/Telemetry_MachineLearning). When you have downloaded the archive, the code to be run can be found in the `worksheets/Telemetry_ML.R` file.
 
 
 

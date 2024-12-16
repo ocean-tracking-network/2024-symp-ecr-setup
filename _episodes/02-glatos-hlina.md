@@ -17,4 +17,4 @@ The estimating detection efficiency of acoustics receivers using `glatos` worksh
 The code and data are available at [this repository.](https://github.com/benjaminhlina/glatos-detection-efficiency/tree/main) Instructions for accessing the GitHub repository are on the [setup page](/2024-symp-ecr-setup/setup.html).
 
 **Presentation Slides**
-The Powerpoint Presentation (.pptx file) for Ben Hlina's workshop can be downloaded from [this link](/Resources/detection-effeicency-workshop.pptx).
+The Powerpoint Presentation (.pptx file) for Ben Hlina's workshop can be downloaded from [this link](/2024-symp-ecr-setup/Resources/detection-effeicency-workshop.pptx).

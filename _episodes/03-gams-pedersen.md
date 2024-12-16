@@ -16,4 +16,4 @@ The first hour of the workshop will focus on what a GAM is, and the core concept
 
  **Code**
 
-  The code and data are available in [this ZIP archive.](/Resources/OTN2024-GAM4movement.zip). You can access them by downloading and extracting the archive, then opening the .Rproj file in RStudio. 
+  The code and data are available in [this ZIP archive.](/2024-symp-ecr-setup/Resources/OTN2024-GAM4movement.zip). You can access them by downloading and extracting the archive, then opening the .Rproj file in RStudio. 

@@ -23,4 +23,4 @@ Learning objectives:
  2. Basic statistics
 
  **Code**
- The code and data are available at [this repository](https://github.com/ocean-tracking-network/2024-ecrworkshop-actel). Instructions for accessing the GitHub repository are on the [setup page](/setup.html).
+ The code and data are available at [this repository](https://github.com/ocean-tracking-network/2024-ecrworkshop-actel). Instructions for accessing the GitHub repository are on the [setup page](/2024-symp-ecr-setup/setup.html).

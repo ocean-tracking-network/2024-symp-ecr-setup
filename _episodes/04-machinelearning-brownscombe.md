@@ -14,4 +14,4 @@ This workshop covers applications of machine learning techniques to acoustic tel
 
 **Code**
 
-The code and data are available at [this repository](https://github.com/jakebrownscombe/Telemetry_MachineLearning). Instructions for accessing the GitHub repository are on the [setup page](/setup.html).
+The code and data are available at [this repository](https://github.com/jakebrownscombe/Telemetry_MachineLearning). Instructions for accessing the GitHub repository are on the [setup page](/2024-symp-ecr-setup/setup.html).

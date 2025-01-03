@@ -6,6 +6,6 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 
 This is a stub site meant to support the Early Career Researcher workshops at the 2024 OTN Symposium. There are four workshops, each of which requires a different set of code and data. You can find instructions to download the code on the [setup page](/2024-symp-ecr-setup/setup.html).
 
-The agenda for this workshop, containing the times at which each lesson was given, can be found at [this link.](/Resources/agenda.pdf).
+The agenda for this workshop, containing the times at which each lesson was given, can be found at [this link](/Resources/agenda.pdf).
 
 {% include links.md %}
